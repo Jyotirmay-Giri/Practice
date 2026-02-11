@@ -1,6 +1,6 @@
-package Revision;
+package OopsAndConcepts;
 
-abstract class Car{
+ class Car{
     void engine(){
         System.out.println("Petrol Engine");
     }
