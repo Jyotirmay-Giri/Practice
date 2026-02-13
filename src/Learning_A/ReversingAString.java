@@ -19,7 +19,7 @@ public class ReversingAString {
              arr[end] = temp;
 
             start++;
-            end++;
+            end--;
         }
         return new String(arr);
     }
