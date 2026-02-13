@@ -32,6 +32,8 @@ public class Rough {
         cicketBoard pak = new Pakistan();
          ind.team();
          pak.team();
+
+         System.out.println("Reversed value of string S : " + reverse(S));
     }
 
     public static int friquency(String S, char c){
@@ -42,6 +44,24 @@ public class Rough {
             }
         }
         return count;
+    }
+    // Reverse a string
+    static String reverse(String S){
+        char[] arr = S.toCharArray();
+        int start = 0;
+        int end = arr.length-1;
+
+        while(start < end){
+            char temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+
+
+            start++;
+            end--;
+
+        }
+        return new String(arr);
     }
 
 
