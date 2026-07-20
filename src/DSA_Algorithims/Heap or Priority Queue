@@ -1,0 +1,13 @@
+Heap / Priority Queue
+
+Java's PriorityQueue.
+
+Questions:
+Kth Largest Element
+Top K Frequent Elements
+Merge K Sorted Lists
+K Closest Points
+
+Example:
+PriorityQueue<Integer> pq =
+        new PriorityQueue<>();

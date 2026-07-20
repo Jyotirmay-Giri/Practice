@@ -1,0 +1,15 @@
+Sliding Window
+
+One of the most important patterns.
+
+Questions:
+Maximum Sum Subarray of Size K
+Longest Substring Without Repeating Characters
+Longest Repeating Character Replacement
+Minimum Window Substring
+
+Example:
+
+while(windowCondition){
+    left++;
+}

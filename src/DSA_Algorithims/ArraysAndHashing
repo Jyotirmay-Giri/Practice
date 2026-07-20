@@ -1,0 +1,17 @@
+1. Arrays & Hashing
+
+Most asked in interviews.
+
+Questions:
+
+Two Sum
+Contains Duplicate
+Valid Anagram
+Product of Array Except Self
+Majority Element
+
+Example:
+
+Input: [2,7,11,15], target=9
+
+Output: [0,1]

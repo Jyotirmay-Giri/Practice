@@ -1,0 +1,14 @@
+Binary Search
+
+Interviewers love asking this.
+
+Questions:
+Binary Search
+First and Last Position
+Search Insert Position
+Find Peak Element
+
+Example:
+while(left <= right){
+    int mid = left + (right-left)/2;
+}

@@ -1,0 +1,9 @@
+Stack
+Questions:
+Valid Parentheses
+Next Greater Element
+Min Stack
+Daily Temperatures
+
+Example:
+Stack<Character> stack = new Stack<>();

@@ -1,0 +1,12 @@
+Algorithm	             Complexity
+
+Binary Search	           O(log n)
+Merge Sort	               O(n log n)
+Quick Sort	               O(n log n)
+BFS	                       O(V+E)
+DFS	                       O(V+E)
+Kadane's Algorithm	       O(n)
+Dijkstra	               O(E log V)
+Floyd Cycle Detection	   O(n)
+Sliding Window	           O(n)
+Topological Sort	       O(V+E)

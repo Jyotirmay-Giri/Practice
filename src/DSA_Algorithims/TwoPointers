@@ -1,0 +1,14 @@
+Two Pointers
+
+Used when dealing with arrays and strings.
+
+Questions:
+Reverse String
+Valid Palindrome
+Remove Duplicates from Sorted Array
+Container With Most Water
+
+Example:
+
+left++;
+right--;

@@ -1,0 +1,18 @@
+Trees (DFS + BFS)
+
+Companies ask at least one tree question.
+
+DFS:
+preorder
+inorder
+postorder
+
+BFS:
+level order traversal
+
+Questions:
+Maximum Depth of Binary Tree
+Inorder Traversal
+Level Order Traversal
+Same Tree
+Validate BST

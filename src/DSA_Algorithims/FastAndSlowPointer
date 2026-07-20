@@ -1,0 +1,13 @@
+Fast & Slow Pointer
+
+Mostly used in Linked Lists.
+
+Questions:
+Detect Cycle
+Find Middle Node
+Happy Number
+Remove Nth Node from End
+
+Example:
+slow = slow.next;
+fast = fast.next.next;
